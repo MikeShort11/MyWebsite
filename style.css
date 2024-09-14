@@ -3,31 +3,11 @@ body {
   margin: 0;
   padding: 1rem;
   display: grid;
-  place-items: center;
+  place-items: left;
   font-family: system-ui;
-}
-
-.menu {
-  border: 5px;
-  background-color: antiquewhite;
-  margin: auto;
-  width: 50%;
-  text-align: center;
-
 }
 h1 {
   text-align: center;
 }
 
-button {
-  text-align: center;
-}
 
-span {
-  text-align: center;
-  display: block;
-  padding: 1rem;
-  font-size: 1rem;
-  font-weight: normal;
-  font-family: monospace;
-}
