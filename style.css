@@ -6,6 +6,10 @@ body {
   place-items: left;
   font-family: system-ui;
 }
+div {
+  id: "Personal Info";
+  text-algin: center;
+}
 h1 {
   text-align: center;
 }
